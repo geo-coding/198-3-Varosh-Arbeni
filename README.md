@@ -26,7 +26,7 @@ Rexhep (Muharrem) Krosa
 600
 Halit (Rrustem) Krosa
 1012452396
-KODRA E MADHE	
+KODRA E MADHE
 
 00198-3
 609
@@ -34,11 +34,11 @@ KODRA E MADHE
 Arben Krosa (Sahit)
 1012867936
 
-KODRA E MADHE	
+KODRA E MADHE
 
 
-Gjendja e vjetër			Gjendja e re		
-Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+Gjendja e vjetër			Gjendja e re
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia
     00198-3	609	m²	00198-9 	497	m²
 			        00198-10	112	m²
 Gjithsej	609	m²	Gjithsej	609	m²
