@@ -36,6 +36,13 @@ Arben Krosa (Sahit)
 
 KODRA E MADHE	
 
+
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    00198-3	609	m²	00198-9 	497	m²
+			        00198-10	112	m²
+Gjithsej	609	m²	Gjithsej	609	m²
+
 ```
 # kerkesat
 
@@ -56,5 +63,8 @@ Halit (Rrustem) Krosa
 00198-3
 Arben Krosa (Sahit)
 1012867936
+
+$ dyfishet
+2
 
 ```
